@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/full_adder_1bit/full_addertb_isim_beh.exe" -prj "/home/ise/full_adder_1bit/full_addertb_beh.prj" "work.full_addertb" 

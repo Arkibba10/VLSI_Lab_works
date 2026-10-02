@@ -1,0 +1,2 @@
+work	"../../full_adder_8bit/full_adder1bit.vhd"
+work	"full_adder8bit.vhd"
